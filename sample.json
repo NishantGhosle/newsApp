@@ -1,0 +1,85 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Abigail Ng",
+            "title": "Bitcoin drops below $21,000 briefly as crypto sell-off continues - CNBC",
+            "description": "Bitcoin briefly fell below $21,000 on Tuesday in Asia, continuing its plunge along with a sell-off in risk assets.",
+            "url": "https://www.cnbc.com/2022/06/14/cryptocurrencies-sell-off-continues-bitcoin-and-ethereum-fall.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107050172-1650624264552-gettyimages-1237821578-widak-mogolaun220119_npJZN.jpeg?v=1655175857&w=1920&h=1080",
+            "publishedAt": "2022-06-14T03:55:00Z",
+            "content": "Bitcoin briefly fell below $21,000 on Tuesday in Asia before bouncing back slightly, continuing its plunge as investors sold off risk assets.\r\nThe world's largest cryptocurrency fell nearly 14% in th… [+2067 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Futures: What To Do After Today's Stock Market Plunge - Investor's Business Daily",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMingFodHRwczovL3d3dy5pbnZlc3RvcnMuY29tL21hcmtldC10cmVuZC9zdG9jay1tYXJrZXQtdG9kYXkvZG93LWpvbmVzLWZ1dHVyZXMtd2hhdC10by1kby1hZnRlci10b2RheXMtc3RvY2stbWFya2V0LXBsdW5nZS1mZWQtbWVldGluZy1rZXktaW5mbGF0aW9uLXJlcG9ydC1uZXh0L9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-06-14T02:24:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TheStreet"
+            },
+            "author": "Kirk O’Neil",
+            "title": "How Long Does the Average Bear Market Last? - TheStreet",
+            "description": "S&P 500 entered bear market country on June 13, down 21% from its high on Jan. 3, while Nasdaq has been in a bear market since March 2022.",
+            "url": "https://www.thestreet.com/investing/how-long-does-the-average-bear-market-last",
+            "urlToImage": "https://www.thestreet.com/.image/t_share/MTcxMzkwNjQxNDkyNzMxNTcx/bear-market.jpg",
+            "publishedAt": "2022-06-14T01:30:52Z",
+            "content": "Bear markets have a long history with the S&amp;P 500, Nasdaq Composite and Dow Jones Industrial Average indexes and they have returned as a result of the economic turmoil caused by inflation, rising… [+2798 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Shaurya Malwa, James Rubin",
+            "title": "First Mover Asia: What Analysts Are Saying After Crypto Lender Celsius Paused Withdrawals; BTC Drops Below $23K - CoinDesk",
+            "description": "Some observers of digital asset markets criticized the move but others said that Celsius could be protecting user funds; ether plummets 17%.",
+            "url": "https://www.coindesk.com/markets/2022/06/14/first-mover-asia-what-analysts-are-saying-after-crypto-lender-celsius-paused-withdrawals-btc-drops-below-23k/",
+            "urlToImage": "https://www.coindesk.com/resizer/xa-QJd3kqoIj8Z6xUY6l5SfoAvw=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/TCPTTJ54WREAJEUNX6WNW2JXTE.jpg",
+            "publishedAt": "2022-06-14T00:43:00Z",
+            "content": "Good morning. Heres whats happening:\r\nPrices: Bitcoin and other cryptos have a dark day.\r\nInsights: Observers of digital assets react differently to Celsius's announcement to pause withdrawals.\r\nTech… [+18637 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Decrypt"
+            },
+            "author": "Stacy Elliott",
+            "title": "How the Celsius Liquidity Crunch Is Linked to Lido's Staked Ethereum - Decrypt",
+            "description": "A core piece of Celsius's Earn strategy relies on Staked ETH not losing parity with Ethereum. But it has, and now customers want their money back.",
+            "url": "https://decrypt.co/102812/celsius-liquidity-crunch-lido-staked-ethereum-steth",
+            "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/06/celsius-logo-lido-staked-eth-gID_1.jpg",
+            "publishedAt": "2022-06-13T23:53:49Z",
+            "content": "Its only been a month since the collapse of Terra, and the chaos that it created in the crypto market, and now Lido Finance and its Staked Ethereum (stETH) are at the center of another potential liqu… [+5523 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Elon Musk to Address Twitter Staff For First Time Since Deal - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=b6bbebe0-eb8d-11ec-a9d1-425078476c47&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wNi0xMy9lbG9uLW11c2stdG8tYWRkcmVzcy10d2l0dGVyLXN0YWZmLWZvci1maXJzdC10aW1lLXNpbmNlLWRlYWw=",
+            "urlToImage": null,
+            "publishedAt": "2022-06-13T23:42:45Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        }
+      
+    ]
+}
